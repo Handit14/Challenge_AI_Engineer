@@ -1,4 +1,4 @@
-# Deteksi Alat Pelindung Diri (Personal Protective Equipment Detection)
+# Personal Protective Equipment Detection
 
 Nama: Muhammad Farhan Aditama
 

@@ -25,4 +25,7 @@ Ketika memilih untuk mengunggah file bertipe Video, akan muncul opsi tambahan un
 
 ![Screenshot2](img_readme/ss3.png)
 ![Screenshot2](img_readme/ss4.png)
-Tampilan di atas menampilkan proses deteksi secara real-time pada video. Pengguna dapat memilih nilai threshold confidence yang diinginkan, dan aplikasi akan menampilkan umpan balik visual berupa hasil deteksi APD. Begitu juga dengan gambar yang diproses, hasil deteksinya akan ditampilkan dengan cara yang serupa.
+Tampilan di atas menampilkan proses deteksi secara real-time pada video. Pengguna dapat memilih nilai threshold confidence yang diinginkan, dan aplikasi akan menampilkan umpan balik visual berupa hasil deteksi APD. Begitu juga dengan gambar yang diproses, hasil deteksinya akan ditampilkan dengan cara yang serupa.  
+
+Berikut ini adalah link hasil video yang telah berhasil di deteksi/analisis:
+(https://drive.google.com/drive/folders/1kczR8tvndbj9u1_ntQsY16ZSoY-fzY4N?usp=sharing)

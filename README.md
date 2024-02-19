@@ -3,7 +3,7 @@
 ## Langkah-langkah Install Aplikasi  
 1. ### Clone Repository
    `git clone https://github.com/Handit14/Challenge_AI_Engineer.git`
-2. ### Pindah ke Direktori
+2. ### Pindah Direktori
    `cd Challenge_AI_Engineer`
 3. ### Install Virtual Environment
    `pip install virtualenv`

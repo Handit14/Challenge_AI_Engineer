@@ -2,7 +2,7 @@
 
 Nama: Muhammad Farhan Aditama
 
-Project/challenge ini bertujuan untuk membuat sebuah aplikasi yang dapat mendeteksi perlengkapan pelindung diri seperti helm, sepatu, sarung tangan, dan rompi pengaman dalam gambar/video.
+Project/challenge ini bertujuan untuk membuat sebuah aplikasi yang dapat mendeteksi perlengkapan pelindung diri seperti helmet, sepatu, sarung tangan, dan rompi pengaman dalam gambar/video.
 
 ## Langkah-langkah Install Aplikasi  
 1. ### Clone Repository
